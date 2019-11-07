@@ -1,0 +1,29 @@
+
+
+https://playcode.io/
+
+// variables 
+let name = 'Mike';
+console.log(name);
+
+let firstName = 'Mike';
+let lastName = 'Denton';
+
+// constants
+
+let interestRate = 0.3;
+interestRate = 1;
+
+console.log(interestRate);
+
+// primitive/value types 
+
+let name = 'Mike'; 	// String Literal
+let age = 30;      	// Number Literal
+let isApproved = true; 	// Boolean Literal
+let firstName;		// undefined by default
+let selectedColor = null;
+
+typeof name
+name = 1
+typeof name 		// dynamically changed at runtime
